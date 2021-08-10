@@ -1,0 +1,22 @@
+{
+    "addressbook": [
+      {
+        "name": "Sonali Jha",
+        "address": "Railway Colony",
+        "city": "Hajipur",
+        "state": "Bihar",
+        "zipcode": "441904",
+        "phoneNumber": "99 7744558877",
+        "id": 3
+      },
+      {
+        "name": "Siddharth",
+        "address": "Noida-15",
+        "city": "Noida",
+        "state": "Uttar Pradesh",
+        "zipcode": "785412",
+        "phoneNumber": "77 4411225588",
+        "id": 4
+      }
+    ]
+  }
